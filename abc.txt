@@ -8,5 +8,10 @@ System.out.println("End File");
 System.out.println("Test2");
 System.out.println("Test");
  }
+ 
+  public void m(){
+  System.out.println("End File");
+  
+  }
 
 }
