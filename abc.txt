@@ -1,7 +1,7 @@
 public Test{
 
  public static void main(String...k){
-  Sysout("This is professionalIT")
+  System.out.println("This is professionalIT")
  }
 
 }
