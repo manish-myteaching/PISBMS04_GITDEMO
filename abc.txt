@@ -1,4 +1,7 @@
-Hi...This is ProfrssionalIT.
+public Test{
 
-javacode
-.net code
+ public static void main(String...k){
+  Sysout("This is professionalIT")
+ }
+
+}
