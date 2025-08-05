@@ -9,9 +9,9 @@ System.out.println("End File");
 System.out.println("Test2");
 System.out.println("Test");
 
-System.out.println("End File");
-System.out.println("End File");
-System.out.println("End File");
+if(m>0){
+
+  sysout("hi");
 
  }
  
