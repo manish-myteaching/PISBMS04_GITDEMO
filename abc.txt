@@ -15,11 +15,7 @@ System.out.println("End File");
 
  }
  
-  public void m(){
-   if(true){
-    System.out.println("List");
-  }
-  
+
   
   }
 
