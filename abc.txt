@@ -6,8 +6,7 @@ System.out.println("Git - Jenkin - Tomcat");
 System.out.println("End File");
 System.out.println("End File");
 
-System.out.println("Test2");
-System.out.println("Test");
+
 
 if(m>0){
 
@@ -22,7 +21,11 @@ if(m>0){
 }
 
  
+if(m>0){
 
+  sysout("hi");
+
+ }
   
   }
 
