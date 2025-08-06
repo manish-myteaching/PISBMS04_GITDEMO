@@ -12,11 +12,6 @@ if(m>0){
 
   sysout("hi");
 
- }else{
-     sysout("hi");
-
-}else{
-     sysout("hi");
 
 }
 
