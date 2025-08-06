@@ -8,7 +8,17 @@ System.out.println("End File");
 
 System.out.println("Test2");
 System.out.println("Test");
+if(m>0){
 
+  sysout("hi");
+
+ }
+
+if(m>0){
+
+  sysout("hi");
+
+ }
 if(m>0){
 
   sysout("hi");
