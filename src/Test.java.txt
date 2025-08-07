@@ -5,7 +5,9 @@ public class Test{
     int a=0;
     if(a>0){
 
-    }
+    }else{
+	
+	}
 
    }
 
