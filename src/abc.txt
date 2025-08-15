@@ -21,12 +21,7 @@ if(m>0){
   sysout("hi");
 
  }
-if(m>0){
 
-  sysout("hi");
-
- }
- 
 
   
   }
